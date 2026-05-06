@@ -1,5 +1,5 @@
-The paper is now published. 
-https://doi.org/10.1016/j.ijmedinf.2024.105679
+The paper is now published. <br>
+https://doi.org/10.1016/j.ijmedinf.2024.105679 <br>
 Bershan S, Meisel A, Mergenthaler P. Data-driven explainable machine learning for personalized risk classification of myasthenic crisis. Int J Med Inform. 2025 Feb;194:105679. doi: 10.1016/j.ijmedinf.2024.105679. Epub 2024 Nov 12. PMID: 39566349.
 
 
